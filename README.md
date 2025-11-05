@@ -42,4 +42,4 @@ It enables **admins** to create courses and conduct **MCQ or written exams**, wh
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/your-username/CyberSecuraX.git
+   git clone https:/Muhtasim-Masum-Hasnayen/github.com/your-username/CyberSecuraX.git
